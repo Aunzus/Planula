@@ -25,7 +25,7 @@
                 {
                  "name":"playAudio",
                  "type":"string",
-                 "value":"https:\/\/sound-effects.bbcrewind.co.uk\/search?q=07019082"
+                 "value":"https:\/\/github.com\/Aunzus\/Planula\/blob\/master\/MP3\/bbc_bathroom-e_07019082.mp3?raw=true"
                 }],
          "type":"tilelayer",
          "visible":true,
