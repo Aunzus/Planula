@@ -26,6 +26,12 @@
          "id":14,
          "name":"Jitsi Nr. 3",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"jitsiRoom Nr. 3",
+                 "type":"string",
+                 "value":"Nr. 3"
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":50,
@@ -38,6 +44,12 @@
          "id":7,
          "name":"Jitsi Nr. 2",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"jitsiRoom",
+                 "type":"string",
+                 "value":"Nr.2"
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":50,
@@ -50,6 +62,12 @@
          "id":3,
          "name":"Jitsi Nr. 1",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"jitsiRoom",
+                 "type":"string",
+                 "value":"Nr.1"
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":50,
